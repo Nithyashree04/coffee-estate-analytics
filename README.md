@@ -6,6 +6,10 @@ An AI-powered business intelligence dashboard developed using Streamlit, Machine
 
 This project simulates a real-world analytics platform for coffee estate management. It combines historical operational data, predictive analytics, climate simulation, and interactive visualizations to provide actionable insights for estate managers.
 
+##Live Demo
+
+https://coffee-estate-analytics.streamlit.app
+
 ## Key Features
 
 * Revenue Analytics Dashboard
